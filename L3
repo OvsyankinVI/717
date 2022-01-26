@@ -1,0 +1,7 @@
+#inqlude <stdio.h>
+
+int mail(void)
+
+{
+printf("hello world\n@);
+}
